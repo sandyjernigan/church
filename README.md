@@ -286,6 +286,8 @@ var app = firebase.initializeApp({ ... });
 ## analytics 
 https://www.npmjs.com/package/analytics
 
+@analytics/google-analytics
+
 Usage
 ```
 import Analytics from 'analytics'
