@@ -274,4 +274,13 @@ console.log(location.search);
 - .exclude(url, keys, options?)
 - .exclude(url, filter, options?)
 
+## firebase
+https://www.npmjs.com/package/firebase
+
+Access Firebase using:
+```
+var firebase = require('firebase');
+var app = firebase.initializeApp({ ... });
+```
+
 ## 
