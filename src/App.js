@@ -1,10 +1,8 @@
-import React from "react";
-import Main from './pages/Main';
+import React from 'react';
+import SimpleContainer from './components/MaterialUI';
 
-function App() {
+export default function App() {
   return (
-    <Main />
+    <SimpleContainer />
   );
 }
-
-export default App;
